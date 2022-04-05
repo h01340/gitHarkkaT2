@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 Akseli: No juuh elikkäs koodaillaan menemään
-=======
-<<<<<<< HEAD
-Kristiina: .....
-=======
-Henry: Morjens
-
->>>>>>> b37040c3ed4645be32a1b232e9029b584e13ad35
->>>>>>> a48dd46b8e25351ebbf1d61f926d560654c6304a
+Akseli: Katotaan!

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Kristiina: .....
+=======
+Henry: Morjens
+
+>>>>>>> b37040c3ed4645be32a1b232e9029b584e13ad35
